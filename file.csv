@@ -1,0 +1,15 @@
+exemplo,aparencia,temperatura,umidade,ventando,jogar
+E1,sol,quente,alta,falso,nao
+E2,sol,quente,alta,verdadeiro,nao
+E3,nublado,quente,alta,falso,sim
+E4,chuva,agradavel,alta,falso,sim
+E5,chuva,fria,normal,falso,sim
+E6,chuva,fria,normal,verdadeiro,nao
+E7,nublado,fria,normal,verdadeiro,sim
+E8,sol,agradavel,alta,falso,nao
+E9,sol,fria,normal,falso,sim
+E10,chuva,agradavel,normal,falso,sim
+E11,sol,agradavel,normal,verdadeiro,sim
+E12,nublado,agradavel,alta,verdadeiro,sim
+E13,nublado,quente,normal,falso,sim
+E14,chuva,agradavel,alta,verdadeiro,nao
